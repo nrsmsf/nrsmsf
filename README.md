@@ -3,6 +3,7 @@
 [![nrsmsf's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrsmsf&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrsmsf&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![nrsmsf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nrsmsf&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nrsmsf/nrsmsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
